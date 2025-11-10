@@ -4,16 +4,16 @@ A simple, lightweight Java Swing application that allows users to set a timer in
 
 ---
 
-## Java-AlarmClock/
-│
+## Project Structure
+
+```text
+Java-AlarmClock/
 ├── src/
 │   └── AlarmGUI.java
-│
 ├── sound/
 │   └── alarm.wav
-│
 ├── README.md
-└── Documentation.md
+└── LICENSE
 
 
 ## 🚀 Features
