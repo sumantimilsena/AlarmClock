@@ -7,7 +7,7 @@ A simple, lightweight Java Swing application that allows users to set a timer in
 ## Project Structure
 
 ```text
-Java-AlarmClock/
+AlarmClock/
 ├── src/
 │   └── AlarmGUI.java
 ├── sound/
