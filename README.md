@@ -14,10 +14,6 @@ Java-AlarmClock/
 │   └── alarm.wav
 ├── README.md
 └── LICENSE
-<<<<<<< HEAD
-
-=======
->>>>>>> 7da7ffad51a788e53041c73d022a3a7284a00b95
 
 
 ## 🚀 Features
